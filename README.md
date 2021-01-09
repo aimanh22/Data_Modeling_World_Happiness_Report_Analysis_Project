@@ -3,6 +3,8 @@ Using the World Happiness Report and especially, the Happiness Scores published,
 
 The report uses a region-level proportional odds model for the analysis. It begins with data preprocessing followed by EDA, and tries developing the model aided by an imputed data AIC Stepwise-built single-level model, guided by statistical significance and plausibility.
 
+For Detailed Methodology, Please refer Report.
+
 Data Reference: https://worldhappiness.report/ed/2019/
 
-For Detailed Methodology, Please refer Report.
+
